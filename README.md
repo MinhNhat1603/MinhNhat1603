@@ -19,7 +19,7 @@ My current goal is to become a backend developer. When applying to your company,
 
 <h3 align="left">Connect with me:
 <p align="left">
-<a href="https://www.facebook.com/tk110204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuankietcoderr" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tk110204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MinhNhat1603" height="30" width="40" /></a>
 <a href="https://instagram.com/__tkiet__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tkiet__" height="30" width="40" /></a>
 </p>
   <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +36,6 @@ My current goal is to become a backend developer. When applying to your company,
             </a>
   </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuankietcoderr&theme=radical" alt="tuankietcoderr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhNhat1603&theme=radical" alt="MinhNhat1603" /></p>
  
-[![](https://visitcount.itsvg.in/api?id=tuankietcoderr&label=Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MinhNhat1603&label=Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
